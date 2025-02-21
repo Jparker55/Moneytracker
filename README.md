@@ -17,4 +17,5 @@ data cleaning and organization
 financial analysis
 
 Dash preview
-<img width="1460" alt="Screenshot 2025-02-20 at 9 26 06 PM" src="https://github.com/user-attachments/assets/e0577528-8127-4097-8ed5-03fc3deb5562" />
+
+<img width="1453" alt="Screenshot 2025-02-20 at 9 29 33 PM" src="https://github.com/user-attachments/assets/09b6f4d4-2b3c-49a4-bbc0-213e60c2cc78" />
